@@ -8,9 +8,7 @@ Load the functions library to your scripts by using
 <b>Example:</b><br>
 . C:/cygwin/bash_menus.sh
 
-In your script, you can call menu functions using this syntax:
-
-menu<#> "<Menu Title>" "<Menu items seperated by ",">"
+In your script, you can call menu functions. First call the menu function of the menu your want, then pass the title followed by the options seperated by a ",".
 
 <b>Examples:</b> <br>
 menu1 "Menu Options" "Restart,Save,Exit"
