@@ -11,9 +11,9 @@ Load the functions library to your scripts by using
 In your script, you can call menu functions. First call the menu function of the menu your want, then pass the title followed by the options seperated by a ",".
 
 <b>Examples:</b> <br>
-menu1 "Menu Options" "Restart,Save,Exit"
-menu2 "VM Options" "Reboot,Delete,Create,Run"
-menu3 "Game Settings" "Controls,Key Binds,Gameplay,Multiplayer,Graphics"
+menu1 "Menu Options" "Restart,Save,Exit" <br>
+menu2 "VM Options" "Reboot,Delete,Create,Run" <br>
+menu3 "Game Settings" "Controls,Key Binds,Gameplay,Multiplayer,Graphics" <br>
 
 <h3>Menus:</h3>
 
