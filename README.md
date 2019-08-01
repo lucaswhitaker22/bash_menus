@@ -15,8 +15,8 @@ menu1 "Menu Options" "Restart,Save,Exit" <br>
 menu2 "VM Options" "Reboot,Delete,Create,Run" <br>
 menu3 "Game Settings" "Controls,Key Binds,Gameplay,Multiplayer,Graphics" <br>
 
-Refer to the wiki to see available menus.
 
+<a href="https://github.com/lucaswhitaker22/bash_menus/wiki">Refer to the wiki to see available menus.</a>
 
 <b>Authors Note</b>
 Please keep in mind this is my first function library, I wrote this to experiment with tput and practise using cursors. I am new to using bash, and programming all together. Feedback is greatly appreciated!
